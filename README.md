@@ -83,6 +83,8 @@ print_low_nibble:
     ret           ; Return from procedure
 ```
 
+![image](https://github.com/user-attachments/assets/7053167a-7cc3-46f1-9ad8-223c2f5be3da)
+
 #### 8-bit Subtraction Code
 
 ```asm
@@ -132,6 +134,7 @@ print_second_digit:
     mov ah, 4Ch
     int 21h
 ```
+![image](https://github.com/user-attachments/assets/56b138b2-3e5a-451b-b7be-981df0a28a96)
 
 ### Explanation
 
